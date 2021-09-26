@@ -1,0 +1,91 @@
+.page{
+	width: 700px; /* c'est la largeur de la page */
+	margin: auto; /*c'est la hauteur de la page */
+	font-size: 16px; /*police pour afficher un texte */
+	font-family: 'Source sans pro', Calibri, tahoma, sans-serif; 
+
+}
+/*stucture du corp*/
+body {
+    display: block;
+    margin: 8px;
+    margin-top: 8px;
+    margin-right: 25%;
+    margin-bottom: 8px;
+    margin-left: 4%;
+}
+
+/*insertion logo site*/
+.photo
+{
+	margin : -8%;
+	margin-left: 35%;
+}
+
+/*Couleur du texte en vert*/
+h1{
+	color: green;
+}
+
+/*Les lignes verte*/
+h2{
+	
+	font-size: 70px;
+	color: black;
+	text-transform: uppercase;
+	border-bottom: 3px solid #008000;
+}
+
+/*Texte en rouge*/
+h3{
+	color: red;
+}
+
+/*Texte en bleu*/
+h4{
+	color:royalblue;
+}
+
+/*texte en gras*/
+.sec-gauche{
+	
+	float: left;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+/*image maison association*/
+.droite{
+	
+	margin-left: 101%;
+	margin-top: -10%;
+	
+}
+
+/*bouton retour vers le haut*/
+.clearfix{
+	margin-left: 100%;
+	color :green;
+}
+
+/*positionnement des copyright*/
+.copyright{
+	margin-left: 20%;
+	
+}
+
+.Horaires{
+	margin-left: 101%;
+	margin-bottom: -20%;
+	width: 25%;
+	
+}
+
+.partenaires{
+	margin-right: 20%;
+}
+
+.reseaux{
+	margin-left: 55%;
+}
+  
